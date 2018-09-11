@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaWrapPanel", "PracticaWrapPanel\PracticaWrapPanel.csproj", "{066D7BBE-3031-46AF-9D10-2A4BBD6CA5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066D7BBE-3031-46AF-9D10-2A4BBD6CA5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066D7BBE-3031-46AF-9D10-2A4BBD6CA5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066D7BBE-3031-46AF-9D10-2A4BBD6CA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066D7BBE-3031-46AF-9D10-2A4BBD6CA5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08EB6CFC-713C-44EE-8D61-B64D5F1F4BD6}
+	EndGlobalSection
+EndGlobal
